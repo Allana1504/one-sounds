@@ -13,3 +13,13 @@ li{
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: antiquewhite;
 }
+
+img{
+    border-radius: 13px;
+    font-size: 10px;
+    width: 1000px;
+}
+
+body{
+    background-color: antiquewhite;
+}
